@@ -64,7 +64,7 @@ This project presents an interactive *Sales Performance Analysis Dashboard* buil
 4. Start using the dashboard to analyze the sales data!
 
 ## Contributing
-- Isha Khatana
+- Isha Khatana\
 Feel free to fork the project and make improvements or suggest changes. If you have any questions or suggestions, feel free to create an issue or submit a pull request.
 
 ## License
